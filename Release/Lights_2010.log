@@ -1,0 +1,362 @@
+﻿  Ai2.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Ai3.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Ai4.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  AiAtt.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  AiAttBoom.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  AiMap.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\aimap.cpp(24): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  BackGround.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  BestScore.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  BGAni.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  BitmapManager.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  BlackScreen.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\blackscreen.cpp(31): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\blackscreen.cpp(51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Button.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\button.cpp(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Camera.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\camera.cpp(22): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\camera.cpp(23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\camera.cpp(24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\camera.cpp(25): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\camera.cpp(27): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Cursor.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  DestoryTile.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Direct3D.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  GameSetting.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\gamesetting.cpp(90): error C2039: 'Init': 'Cursor'의 멤버가 아닙니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\cursor.h(2): note: 'Cursor' 선언을 참조하십시오.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\gamesetting.cpp(91): error C2664: 'void ObjectManager::AddObject(IObject *)': 인수 1을(를) 'Cursor *'에서 'IObject *'(으)로 변환할 수 없습니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\gamesetting.cpp(91): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  GameStart.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\gamestart.cpp(179): error C2039: 'Init': 'Cursor'의 멤버가 아닙니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\cursor.h(2): note: 'Cursor' 선언을 참조하십시오.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\gamestart.cpp(180): error C2664: 'void ObjectManager::AddObject(IObject *)': 인수 1을(를) 'Cursor *'에서 'IObject *'(으)로 변환할 수 없습니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\gamestart.cpp(180): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\gamestart.cpp(207): error C2039: 'Render': 'Cursor'의 멤버가 아닙니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\cursor.h(2): note: 'Cursor' 선언을 참조하십시오.
+  IObject.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  IScene.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  컴파일하고 있습니다...
+  Item2.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\item2.cpp(48): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+  Item2Att.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\item2att.cpp(31): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+  Item3.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Item3Start.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  ItemSlot.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  ItemUseTexture.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\itemusetexture.cpp(30): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\itemusetexture.cpp(50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyManager.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Lights.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Loading.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\loading.cpp(41): error C2039: 'Init': 'Cursor'의 멤버가 아닙니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\cursor.h(2): note: 'Cursor' 선언을 참조하십시오.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\loading.cpp(42): error C2664: 'void ObjectManager::AddObject(IObject *)': 인수 1을(를) 'Cursor *'에서 'IObject *'(으)로 변환할 수 없습니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\loading.cpp(42): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  LoadingBar.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  LoadingTexture.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Math.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\math.cpp(15): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MenuTexture.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\menutexture.cpp(31): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\menutexture.cpp(47): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+  MonsterDie1.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  MonsterDie3.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  MonsterDie2.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  MonsterDie4.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  ObjectManager.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Opening.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\opening.cpp(47): error C2039: 'Init': 'Cursor'의 멤버가 아닙니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\cursor.h(2): note: 'Cursor' 선언을 참조하십시오.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\opening.cpp(48): error C2664: 'void ObjectManager::AddObject(IObject *)': 인수 1을(를) 'Cursor *'에서 'IObject *'(으)로 변환할 수 없습니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\opening.cpp(48): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  OpeningBG.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  컴파일하고 있습니다...
+  OpeningTexture1.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  OpeningTexture2.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  OpeningTexture3.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Penquin.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\penquin.cpp(26): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Player2.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\player2.cpp(79): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+  Player3.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\player3.cpp(77): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+  Player4.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\player4.cpp(77): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+  PlayerAtt.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  PlayerAttBoom.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  PlayerMap.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\playermap.cpp(24): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  ResultLoseAni.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  ResultTexture.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\resulttexture.cpp(112): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\resulttexture.cpp(127): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ResultWinAni.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  SceneManager.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  SceneMenu.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\scenemenu.cpp(62): error C2039: 'Init': 'Cursor'의 멤버가 아닙니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\cursor.h(2): note: 'Cursor' 선언을 참조하십시오.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\scenemenu.cpp(63): error C2664: 'void ObjectManager::AddObject(IObject *)': 인수 1을(를) 'Cursor *'에서 'IObject *'(으)로 변환할 수 없습니다.
+  c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\scenemenu.cpp(63): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  Score.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\score.cpp(59): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Sprite2D.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\sprite2d.cpp(110): warning C4244: '초기화 중': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\sprite2d.cpp(111): warning C4244: '초기화 중': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  stdafx.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Text.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\text.cpp(31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Time.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  컴파일하고 있습니다...
+  UiTexture.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+  Whale.cpp
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(13): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(14): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iobject.h(15): warning C4100: 'obj': 참조되지 않은 정식 매개 변수입니다.
+c:\users\kanghyunwoo\documents\visual studio 2017\projects\dx\me\bettleship\기능경기대회 완성본\lights\iscene.h(18): warning C4100: 'deltatime': 참조되지 않은 정식 매개 변수입니다.

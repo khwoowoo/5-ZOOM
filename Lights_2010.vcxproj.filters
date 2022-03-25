@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{f6c31903-ed3f-4e91-a223-647725480e8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{48ef80e9-0b56-4e8e-a561-90eb8dad199b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{b12f8ffb-cca2-4a48-b0fd-6d97a311073c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{87c6cf40-f91e-4272-9ddf-8518cb2d0f78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Player">
+      <UniqueIdentifier>{3756d693-d830-4f4b-9c96-b63b4d827357}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Ai">
+      <UniqueIdentifier>{6f36d8ca-57e3-45b5-bf95-f6e220e03d3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Item">
+      <UniqueIdentifier>{3eb2a7bc-e75f-486f-979e-3b3663694e79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\Opening">
+      <UniqueIdentifier>{75d9246e-b5d9-40d9-bc95-8f007918a6e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Result">
+      <UniqueIdentifier>{4a384618-4b1a-4451-8576-42a6709530d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\MonsterDie">
+      <UniqueIdentifier>{4a5499bc-e29c-49d4-844d-22497751cb48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\SceneMenu">
+      <UniqueIdentifier>{eb9ddc87-b5a4-4541-a4a0-e19171e95887}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\Loading">
+      <UniqueIdentifier>{5699ee42-fadf-4ba3-8aef-ebbf0a8d8c80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BitmapManager.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct3D.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="IObject.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="IScene.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Lights.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite2D.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Camera.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSetting.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackScreen.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Player2.cpp">
+      <Filter>Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerMap.cpp">
+      <Filter>Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Player3.cpp">
+      <Filter>Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Player4.cpp">
+      <Filter>Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStart.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Ai2.cpp">
+      <Filter>Object\Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="AiAtt.cpp">
+      <Filter>Object\Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="AiAttBoom.cpp">
+      <Filter>Object\Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="AiMap.cpp">
+      <Filter>Object\Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAtt.cpp">
+      <Filter>Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAttBoom.cpp">
+      <Filter>Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Penquin.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Ai3.cpp">
+      <Filter>Object\Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="Ai4.cpp">
+      <Filter>Object\Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="BGAni.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="DestoryTile.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="UiTexture.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemUseTexture.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemSlot.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item2Att.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item2.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item3.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item3Start.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Opening.cpp">
+      <Filter>Scene\Opening</Filter>
+    </ClCompile>
+    <ClCompile Include="OpeningBG.cpp">
+      <Filter>Scene\Opening</Filter>
+    </ClCompile>
+    <ClCompile Include="OpeningTexture1.cpp">
+      <Filter>Scene\Opening</Filter>
+    </ClCompile>
+    <ClCompile Include="OpeningTexture2.cpp">
+      <Filter>Scene\Opening</Filter>
+    </ClCompile>
+    <ClCompile Include="OpeningTexture3.cpp">
+      <Filter>Scene\Opening</Filter>
+    </ClCompile>
+    <ClCompile Include="Cursor.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultWinAni.cpp">
+      <Filter>Object\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultTexture.cpp">
+      <Filter>Object\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultLoseAni.cpp">
+      <Filter>Object\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="BestScore.cpp">
+      <Filter>Object\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterDie2.cpp">
+      <Filter>Object\MonsterDie</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterDie3.cpp">
+      <Filter>Object\MonsterDie</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterDie4.cpp">
+      <Filter>Object\MonsterDie</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterDie1.cpp">
+      <Filter>Object\MonsterDie</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMenu.cpp">
+      <Filter>Scene\SceneMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuTexture.cpp">
+      <Filter>Scene\SceneMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Loading.cpp">
+      <Filter>Scene\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingBar.cpp">
+      <Filter>Scene\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingTexture.cpp">
+      <Filter>Scene\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="Whale.cpp">
+      <Filter>Scene\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BitmapManager.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Direct3D.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="IObject.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="IScene.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleInstance.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite2D.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureData.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Camera.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSetting.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackScreen.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerMap.h">
+      <Filter>Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Player2.h">
+      <Filter>Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Player3.h">
+      <Filter>Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Player4.h">
+      <Filter>Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStart.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Ai2.h">
+      <Filter>Object\Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="AiAtt.h">
+      <Filter>Object\Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="AiAttBoom.h">
+      <Filter>Object\Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="AiMap.h">
+      <Filter>Object\Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAtt.h">
+      <Filter>Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAttBoom.h">
+      <Filter>Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Penquin.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Ai3.h">
+      <Filter>Object\Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="Ai4.h">
+      <Filter>Object\Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="BGAni.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="DestoryTile.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="UiTexture.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemUseTexture.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemSlot.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item2Att.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item2.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item3.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item3Start.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Opening.h">
+      <Filter>Scene\Opening</Filter>
+    </ClInclude>
+    <ClInclude Include="OpeningBG.h">
+      <Filter>Scene\Opening</Filter>
+    </ClInclude>
+    <ClInclude Include="OpeningTexture1.h">
+      <Filter>Scene\Opening</Filter>
+    </ClInclude>
+    <ClInclude Include="OpeningTexture2.h">
+      <Filter>Scene\Opening</Filter>
+    </ClInclude>
+    <ClInclude Include="OpeningTexture3.h">
+      <Filter>Scene\Opening</Filter>
+    </ClInclude>
+    <ClInclude Include="Cursor.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultWinAni.h">
+      <Filter>Object\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultTexture.h">
+      <Filter>Object\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultLoseAni.h">
+      <Filter>Object\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="BestScore.h">
+      <Filter>Object\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterDie2.h">
+      <Filter>Object\MonsterDie</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterDie3.h">
+      <Filter>Object\MonsterDie</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterDie4.h">
+      <Filter>Object\MonsterDie</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterDie1.h">
+      <Filter>Object\MonsterDie</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMenu.h">
+      <Filter>Scene\SceneMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuTexture.h">
+      <Filter>Scene\SceneMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Loading.h">
+      <Filter>Scene\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingBar.h">
+      <Filter>Scene\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingTexture.h">
+      <Filter>Scene\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="Whale.h">
+      <Filter>Scene\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="Lights.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
