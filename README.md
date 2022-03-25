@@ -1,1 +1,1 @@
-# cpp_battleship_game
+# cpp_battleShip_game
