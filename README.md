@@ -1,6 +1,10 @@
 # cpp_battleship_game
 해상전투 시뮬레이션 게임
 
+언어: C++
+라이브러리: directx9
+엔진: 사용 안 함
+
 [게임개발.pdf](https://github.com/rkdgusdn/cpp_battleship_game/files/8954486/default.pdf)
 
 
