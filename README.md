@@ -1,4 +1,4 @@
-# cpp_battleship_game
+# Marine-battleship-game
 해상전투 시뮬레이션 게임
 
 언어: C++
