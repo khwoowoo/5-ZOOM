@@ -1,15 +1,13 @@
-# Marine-battleship-game
-해상전투 시뮬레이션 게임
+## 🔫 Marine-battleship-game
+ - 해상전투 시뮬레이션 게임
+ - 언어: C++
+ - 라이브러리: directx9
+ - 엔진: 사용 안 함
 
-언어: C++
-
-라이브러리: directx9
-
-엔진: 사용 안 함
-
+## 🔫 대회 양식
 [게임개발.pdf](https://github.com/rkdgusdn/cpp_battleship_game/files/8954486/default.pdf)
 
-
+## 🔫 구현 화면
 ![슬라이드26](https://user-images.githubusercontent.com/23547185/174945974-da321e32-2ab9-4772-b8a6-0c90679c7c0a.PNG)
 ![슬라이드27](https://user-images.githubusercontent.com/23547185/174945977-7a5b0917-129b-4fda-8290-e4ee36dd4803.PNG)
 ![슬라이드28](https://user-images.githubusercontent.com/23547185/174945978-36c08391-c0a2-4790-bf2c-94e133e50228.PNG)
