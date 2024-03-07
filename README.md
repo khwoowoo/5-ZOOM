@@ -1,9 +1,11 @@
 ## 🔫 Marine-battleship-game
- - 해상전투 시뮬레이션 게임
+ - 장르: 해상전투 시뮬레이션 게임
+ - 인원: 2명 - 강현우(게임 개발자), 전재규(디자이너)
  - 언어: C++
- - 라이브러리: directx9
- - 사운 포함
+ - 라이브러리: Directx9 (Directx9 그래픽 라이브러리 이외에 다른 라이브러리, 엔진, 소프트웨어 등 사용시 0점 처리)
  - 엔진: 사용 안 함
+ - 사운드 포함
+ - 개발 기간: 대회 20시간(1일: 8시간, 2일: 8시간, 3일: 4시간)
 
 ## 🔫 대회 양식
 [게임개발.pdf](https://github.com/rkdgusdn/cpp_battleship_game/files/8954486/default.pdf)
