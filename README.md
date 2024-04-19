@@ -6,7 +6,7 @@
    - 대회장 컴퓨터는 인터넷 사용불가하며, 그래픽 리소스는 두 개 컴퓨터에 연결된 랜선의 공유 폴더를 만들어서 데이터를 주고 받아야 함
    - DirectX 그래픽 라이브러리 이외에 다른 라이브러리, 게임 엔진, 소프트웨어 등 사용시 0점 처리.
    - 반드시 “C, C++ Program Language”와 “Direct X”를 사용하여 게임을 제작한다.
-
+ - 대화 결과: 경기도기능경기대회 게임개발 직종 은메달(2위) 수상 🏆
 ## 🔫 대회 양식
 [게임개발.pdf](https://github.com/rkdgusdn/cpp_battleship_game/files/8954486/default.pdf)
 
