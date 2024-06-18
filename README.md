@@ -9,8 +9,12 @@
  - 대화 결과: **경기도기능경기대회 게임개발 직종 은메달(2위) 수상 🏆**
 
 ## 🔫 결과
-<image  width=50% src=https://github.com/khwoowoo/5-ZOOM/assets/23547185/c0faefd7-b209-4336-a689-9c9a2a422e3e>
+<image  width=80% src=https://github.com/khwoowoo/5-ZOOM/assets/23547185/f4b55865-0cd1-4984-a40c-f2648ecea840>
+
+<!--  ![image](https://github.com/khwoowoo/5-ZOOM/assets/23547185/f4b55865-0cd1-4984-a40c-f2648ecea840) -->
 <!-- ![image](https://github.com/khwoowoo/5-ZOOM/assets/23547185/c0faefd7-b209-4336-a689-9c9a2a422e3e) -->
+<!--![20231130_091555594](https://github.com/khwoowoo/5-ZOOM/assets/23547185/db53a80a-745b-4ea5-8985-e8e6147176cc> -->
+
 
 
 ## 🔫 대회 양식
