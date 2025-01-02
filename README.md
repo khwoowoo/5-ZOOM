@@ -6,10 +6,11 @@
    - 대회장 컴퓨터는 **인터넷 사용불가**하며, 그래픽 리소스는 두 개 컴퓨터에 연결된 랜선의 공유 폴더를 만들어서 데이터를 주고 받아야 함
    - DirectX 그래픽 라이브러리 이외에 다른 라이브러리, 게임 엔진, 소프트웨어 등 사용시 0점 처리.
    - 반드시 “**C, C++ Program Language”와 “Direct X**”를 사용하여 게임을 제작한다.
- - 대화 결과: **경기도기능경기대회 게임개발 직종 은메달(2위) 수상 🏆**
 
 ## 🔫 결과
-<image  width=80% src=https://github.com/khwoowoo/5-ZOOM/assets/23547185/f4b55865-0cd1-4984-a40c-f2648ecea840>
+대화 결과: **경기도기능경기대회 게임개발 직종 은메달(2위) 수상 🏆** 
+<br>
+<image  width=50% src=https://github.com/user-attachments/assets/7149603f-be2d-4e67-8ab4-8d638cc5caa7>
 
 <!--  ![image](https://github.com/khwoowoo/5-ZOOM/assets/23547185/f4b55865-0cd1-4984-a40c-f2648ecea840) -->
 <!-- ![image](https://github.com/khwoowoo/5-ZOOM/assets/23547185/c0faefd7-b209-4336-a689-9c9a2a422e3e) -->
